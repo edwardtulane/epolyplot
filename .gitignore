@@ -1,0 +1,6 @@
+__pycache__/*
+build/*
+cythonised_PAD_averaging.egg-info/*
+**/*.c
+**/*.pyc
+**/*.so
